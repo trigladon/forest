@@ -1,0 +1,3 @@
+
+class StopUrlIteration(Exception):
+    pass
